@@ -10,16 +10,22 @@ Embedded system mounted on a drone for real-time environmental data collection (
 - LED feedback system  
 - Full hardware-software integration  
 
+## My Role
+- Developed the embedded logic in Arduino C
+- Integrated sensors and Bluetooth communication
+- Built the MIT App Inventor mobile interface
+- Tested the system on a drone-mounted platform
+
 ## System Architecture
 ![System Diagram](images/system_diagram.png)
 
 ## Mobile Application
 ![App UI](images/app_ui.png)
 
-## Application Logic
+## MIT App Logic
 ![App Logic](images/app_logic.png)
 
-## Documentation
+## Project Documentation
 [Project PDF](docs/project.pdf)
 
 ## Technologies
